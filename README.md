@@ -16,3 +16,4 @@ J'utilise des technologies comme:
  
  Portfolio *en création*
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
