@@ -1,6 +1,6 @@
 ### Hi, Je suis Limerio 👋
 
-#### Développeur web *spécialiser en backend*  en apprentisage sur le front end, je suis en pleine formation par moi même sur le développement web et applications mobiles
+#### Développeur web *spécialisé en backend*  en apprentisage sur le front end, je suis en pleine formation par moi même sur le développement web et applications mobiles
 
 
 J'utilise des technologies comme:
@@ -12,7 +12,7 @@ J'utilise des technologies comme:
   - Kotlin *je débute 😉*
   - C#
  
- J'ai travailler sur peu de projets communs mais je pratique quand même de mon côté à titre personnelle pour par la suite continuer dans cette profession.
+ J'ai travaillé sur peu de projets communs mais je pratique quand même de mon côté à titre personnel pour par la suite continuer dans cette profession.
  
  Portfolio *en création*
  
