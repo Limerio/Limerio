@@ -1,8 +1,8 @@
-## Hi, Je suis Limerio 👋
+## Hey, je suis Limerio 👋
 
 ---
 
-Développeur web 💻 _spécialisé en backend_ 📡 en apprentisage sur le frontend 📲, je suis en pleine formation 📝 par moi même sur le développement web 💻 et applications mobiles 📱
+Développeur web 💻 _spécialisé en backend_ en apprentisage sur le frontend, je suis en pleine formation 📝 par moi même sur le développement web et applications mobiles
 
 **I. 💻Développement Web :**
 
