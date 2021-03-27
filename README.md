@@ -2,7 +2,7 @@
 
 ---
 
-Développeur web 💻 _spécialisé en backend_ en apprentisage sur le frontend, je suis en pleine formation 📝 par moi même sur le développement web et applications mobiles
+Développeur web 💻 _spécialisé en backend_ en apprentisage sur le frontend, je suis en pleine formation 📝 par moi même sur le développement web, applications mobiles et le jeu vidéo
 
 **I. 💻Développement Web :**
 
@@ -20,9 +20,12 @@ Développeur web 💻 _spécialisé en backend_ en apprentisage sur le frontend,
 **II. 📱Développement Mobile :**
 
 1. [Kotlin](https://kotlinlang.org) _je débute 😉_
-2. [React Native](https://reactnative.dev)
+2. [React Native](https://reactnative.dev) en exploration de ce monde_
 
-J'ai travaillé sur peu de projets communs mais je pratique quand même de mon côté à titre personnel pour par la suite continuer dans cette profession.
+**III. 💻 Jeux vidéos :**
+1. [Unreal engine](https://unrealengine.com) _monde très vaste_
+
+J'ai travaillé sur peu de projets communs mais je pratique quand même de mon côté à titre personnel pour par la suite continuer dans cette profession. *et dans des projets privés bien sûr ^^*
 
 Liens :
 
