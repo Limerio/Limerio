@@ -1,37 +1,50 @@
-## Hey, je suis Limerio 👋
+<h1 align="center">Hi, I'm Limerio and I'm a full stack developer. I'm using almost all the time for my projects, <a href="https://typescriptlang.org">Typescript</a></h1>
+
+## _But I code more in backend than in Frontend_
 
 ---
 
-Développeur web 💻 _spécialisé en backend_ en apprentisage sur le frontend, je suis en pleine formation 📝 par moi même sur le développement web, applications mobiles et le jeu vidéo
+__**About me :**__
 
-**I. 💻Développement Web :**
+- 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org) and Adobe [XD](https://www.adobe.com/products/xd.html), [Illustrator](https://www.adobe.com/products/illustrator.html) for Web design
+- 💻 I work for my own project [Runa](https://github.com/RunaBot)
+- 🎞 I used for video editing software Adobe [After Effects](https://www.adobe.com/products/aftereffects.html), [Premiere Pro](https://www.adobe.com/products/premiere.html)
+- 📷 [Premiere Pro](https://www.adobe.com/products/premiere.html) used for image editing software Adobe [Photoshop](https://www.adobe.com/products/photoshop.html)
 
-1. 📲 Frontend :
+---
 
-   - [React](https://reactjs.org) (Javascript et [Typescript](https://typescriptlang.org))
-   - [EJS](https://ejs.co)
-   - HTML, CSS, Javascript
+__**Language, Framework, Database and Software used:**__
 
-2. 📡 Backend :
+<img src="images/html.svg" width="50" />
+<img src="images/css.svg" width="35" />
+<a href="https://sass-lang.com"><img src="images/sass.svg" width="50" /></a>
+<a href="https://nodejs.org"><img src="images/nodejs.png" width="50" /></a>
+<a href="https://typescriptlang.org"><img src="images/typescript.svg" width="35" /></a>
+<img src="images/javascript.svg" width="35" />
+<a href="https://kotlinlang.org"><img src="images/kotlin.svg" width="35" /></a>
+<a href="https://reactjs.org"><img src="images/reactjs.svg" width="50" /></a>
+<a href="https://vuejs.org"><img src="images/vue.svg" width="35" /></a>
+<a href="https://www.gatsbyjs.com"><img src="images/gatsby.png" width="35" /></a>
+<a href="https://electronjs.org"><img src="images/electron.svg" width="35" /></a>
+<a href="https://mongodb.com"><img src="images/mongodb.png" width="18" /></a>
+<a href="https://redislabs.com"><img src="images/redis.png" width="35" /></a>
+<a href="https://git-scm.com"><img src="images/git.svg" width="35" /></a>
+<a href="https://docker.com"><img src="images/docker.png" width="50" /></a>
+<a href="https://adobe.com/products/xd.html"><img src="images/adobe/xd.svg" width="35" /></a>
+<a href="https://adobe.com/products/illustrator.html"><img src="images/adobe/illustrator.svg" width="35" /></a>
+<a href="https://adobe.com/products/photoshop.html"><img src="images/adobe/photoshop.svg" width="35" /></a>
+<a href="https://adobe.com/products/aftereffects.html"><img src="images/adobe/aftereffects.svg" width="35" /></a>
+<a href="https://adobe.com/products/premiere.html"><img src="images/adobe/premiere.svg" width="35" /></a>
 
-   - [Node.js](https://nodejs.org) (express, API, Websocket) (avec [Typescript](https://typescriptlang.org) aussi 😉)
-   - C# (api)
+---
 
-**II. 📱Développement Mobile :**
+__**Contact me :**__
 
-1. [Kotlin](https://kotlinlang.org) _je débute 😉_
-2. [React Native](https://reactnative.dev) en exploration de ce monde_
+- Mail : <a href="mailto:limerio.pro@gmail.com">limerio.pro@gmail.com</a>
 
-**III. 💻 Jeux vidéos :**
-1. [Unreal engine](https://unrealengine.com) _monde très vaste_
+---
 
-J'ai travaillé sur peu de projets communs mais je pratique quand même de mon côté à titre personnel pour par la suite continuer dans cette profession. *et dans des projets privés bien sûr ^^*
+__**My Stats :**__
 
-Liens :
-
-- Portfolio📜 _en création_
-
-Mes statistiques :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact&langs_count=10&custom_title=Mes%20langages%20utilisés)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats me](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true&custom_title=Mes%20statistiques%20Github&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats me](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
