@@ -9,7 +9,7 @@ __**About me :**__
 - 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org) and Adobe [XD](https://www.adobe.com/products/xd.html), [Illustrator](https://www.adobe.com/products/illustrator.html) for Web design
 - 💻 I work for my own project [Runa](https://github.com/RunaBot)
 - 🎞 I used for video editing software Adobe [After Effects](https://www.adobe.com/products/aftereffects.html), [Premiere Pro](https://www.adobe.com/products/premiere.html)
-- 📷 [Premiere Pro](https://www.adobe.com/products/premiere.html) used for image editing software Adobe [Photoshop](https://www.adobe.com/products/photoshop.html)
+- 📷 I used for image editing software Adobe [Photoshop](https://www.adobe.com/products/photoshop.html)
 
 ---
 
