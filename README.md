@@ -15,11 +15,8 @@ __**About me :**__
 
 __**Language, Framework, Database and Software used:**__
 
-<img src="images/html.svg" width="50" /><img src="images/css.svg" width="35" /><a href="https://sass-lang.com"><img src="images/sass.svg" width="50" /></a>
-<a href="https://nodejs.org"><img src="images/nodejs.png" width="50" /></a>
-<a href="https://typescriptlang.org"><img src="images/typescript.svg" width="35" /></a><img src="images/javascript.svg" width="35" />
-<a href="https://kotlinlang.org"><img src="images/kotlin.svg" width="35" /></a>
-<a href="https://nestjs.org"><img src="images/nestjs.svg" width="38" /></a>
+<img src="images/html.svg" width="50" /><img src="images/css.svg" width="35" /><img src="images/javascript.svg" width="35" /><a href="https://sass-lang.com"><img src="images/sass.svg" width="50" /></a> <a href="https://nodejs.org"><img src="images/nodejs.png" width="50" /></a>
+<a href="https://typescriptlang.org"><img src="images/typescript.svg" width="35" /></a> <a href="https://kotlinlang.org"><img src="images/kotlin.svg" width="35" /></a><a href="https://nestjs.org"><img src="images/nestjs.svg" width="38" /></a>
 <a href="https://reactjs.org"><img src="images/reactjs.svg" width="50" /></a>
 <a href="https://vuejs.org"><img src="images/vue.svg" width="35" /></a>
 <a href="https://nextjs.org"><img src="images/nextjs.svg" width="50" /></a>
