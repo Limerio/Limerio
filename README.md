@@ -24,6 +24,8 @@ __**Language, Framework, Database and Software used:**__
 <a href="https://electronjs.org"><img src="images/electron.svg" width="35" /></a>
 <a href="https://mongodb.com"><img src="images/mongodb.png" width="18" /></a>
 <a href="https://redislabs.com"><img src="images/redis.png" width="35" /></a>
+<a href="https://jestjs.io/"><img src="images/jest.svg" width="32" /></a>
+<a href="https://www.cypress.io/"><img src="images/cypress-bw.png" width="50" /></a>
 <a href="https://git-scm.com"><img src="images/git.svg" width="35" /></a>
 <a href="https://docker.com"><img src="images/docker.png" width="50" /></a>
 <a href="https://adobe.com/products/xd.html"><img src="images/adobe/xd.svg" width="35" /></a>
