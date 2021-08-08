@@ -6,7 +6,7 @@
 
 __**About me :**__
 
-- 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org) and Adobe [XD](https://www.adobe.com/products/xd.html), [Illustrator](https://www.adobe.com/products/illustrator.html) for Web design
+- 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org), [Go](https://golang.org) and Adobe [XD](https://www.adobe.com/products/xd.html), [Illustrator](https://www.adobe.com/products/illustrator.html) for Web design
 - 💻 I work for my own project [Runa](https://github.com/RunaBot)
 - 🎞 I used for video editing software Adobe [After Effects](https://www.adobe.com/products/aftereffects.html), [Premiere Pro](https://www.adobe.com/products/premiere.html)
 - 📷 I used for image editing software Adobe [Photoshop](https://www.adobe.com/products/photoshop.html)
@@ -16,7 +16,7 @@ __**About me :**__
 __**Language, Framework, Database and Software used:**__
 
 <img src="images/html.svg" width="50" /><img src="images/css.svg" width="35" /><img src="images/javascript.svg" width="35" /><a href="https://sass-lang.com"><img src="images/sass.svg" width="50" /></a> <a href="https://nodejs.org"><img src="images/nodejs.png" width="50" /></a>
-<a href="https://typescriptlang.org"><img src="images/typescript.svg" width="35" /></a> <a href="https://kotlinlang.org"><img src="images/kotlin.svg" width="35" /></a><a href="https://nestjs.com"><img src="images/nestjs.svg" width="38" /></a>
+<a href="https://typescriptlang.org"><img src="images/typescript.svg" width="35" /></a> <a href="https://kotlinlang.org"><img src="images/kotlin.svg" width="35" /></a><a href="https://golang.org"><img src="/images/go.svg" width="65" /></a><a href="https://nestjs.com"><img src="images/nestjs.svg" width="38" /></a>
 <a href="https://reactjs.org"><img src="images/reactjs.svg" width="50" /></a>
 <a href="https://vuejs.org"><img src="images/vue.svg" width="35" /></a>
 <a href="https://nextjs.org"><img src="images/nextjs.svg" width="50" /></a>
