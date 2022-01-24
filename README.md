@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Limerio and I'm a full stack developer. I'm using almost all the time for my projects, <a href="https://typescriptlang.org">Typescript</a></h1>
 
-## _But I code more in backend than in Frontend_
-
 ---
 
 __**About me :**__
