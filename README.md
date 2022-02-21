@@ -12,7 +12,7 @@ __**About me :**__
 
 __**Language, Framework, Database and Software used:**__
 
-<a href="https://reactjs.org"><img src="images/reactjs.svg" width="50" /></a><a href="https://typescriptlang.org"><img src="images/typescript.svg" width="35" /></a> <a href="https://kotlinlang.org"><img src="images/kotlin.svg" width="35" /></a><a href="https://nestjs.com"><img src="images/nestjs.svg" width="38" /></a>
+<a href="https://reactjs.org"><img src="images/reactjs.svg" width="50" /></a><a href="https://sass-lang.com"><img src="images/sass.svg" width="50" /></a><a href="https://typescriptlang.org"><img src="images/typescript.svg" width="35" /></a> <a href="https://go.dev"><img width="50" src="images/go.svg"/></a> <a href="https://kotlinlang.org"><img src="images/kotlin.svg" width="35" /></a><a href="https://nestjs.com"><img src="images/nestjs.svg" width="38" /></a>
 <a href="https://electronjs.org"><img src="images/electron.svg" width="35" /></a>
 <a href="https://mongodb.com"><img src="images/mongodb.png" width="18" /></a>
 <a href="https://redislabs.com"><img src="images/redis.png" width="35" /></a>
@@ -33,5 +33,4 @@ __**My Stats :**__
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats me](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![My wakatime stats](https://wakatime.com/share/@Limerio/8bea06a4-108e-442e-8ca5-2d1436d488f5.svg)
-
+<img src="https://wakatime.com/share/@Limerio/389e5fed-0423-4f93-b811-16705c7932f9.svg" width="750"/>
