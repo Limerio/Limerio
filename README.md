@@ -33,4 +33,4 @@ __**My Stats :**__
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats me](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://wakatime.com/share/@Limerio/389e5fed-0423-4f93-b811-16705c7932f9.svg" width="750"/>
+[![Limerio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=limerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
