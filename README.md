@@ -12,7 +12,7 @@ __**About me :**__
 
 __**Language, Framework, Database and Software used:**__
 
-<a href="https://arduino.cc"><img src="images/arduino.svg" alt="arduino" width="30px" /></a>
+[<a href="https://arduino.cc"><img src="images/arduino.svg" alt="arduino" width="30px" /></a>][arduino]
 <img src="images/cpp.svg" alt="cplusplus" width="30px" />
 <img src="images/csharp.svg" alt="csharp" width="30px" />
 <a href="https://www.cypress.io/"><img src="images/cypress-bw.png" width="30px" /></a>
