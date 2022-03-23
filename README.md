@@ -12,41 +12,41 @@ __**About me :**__
 
 __**Language, Framework, Database and Software used:**__
 
-[![arduino](./images/arduino.svg)](https://arduino.cc)
+[![arduino](images/arduino.svg)](https://arduino.cc)
 &nbsp;
 [cplusplus](./images/cpp.svg)
 &nbsp;
-[csharp](./images/csharp.svg)
+[csharp](images/csharp.svg)
 &nbsp;
 <a href="https://www.cypress.io/"><img src="images/cypress-bw.png" width="30px" /></a>
 &nbsp;
-[![docker](./images/docker.png)](https://docker.com)
+[![docker](images/docker.png)](https://docker.com)
 &nbsp;
-[![electron](./images/electron.svg)](https://electronjs.org)
+[![electron](images/electron.svg)](https://electronjs.org)
 &nbsp;
-[![git](./images/git.svg)](https://git-scm.com)
+[![git](images/git.svg)](https://git-scm.com)
 &nbsp;
-[![go](./images/go.svg)](https://go.dev)
+[![go](images/go.svg)](https://go.dev)
 &nbsp;
-[![graphql](./images/graphql.svg)](https://graphql.org/)
+[![graphql](images/graphql.svg)](https://graphql.org/)
 &nbsp;
-[![kotlin](./images/kotlin.svg)](https://kotlinlang.org)
+[![kotlin](images/kotlin.svg)](https://kotlinlang.org)
 &nbsp;
-[![mongodb](./images/mongodb.svg)](https://mongodb.com)
+[![mongodb](images/mongodb.svg)](https://mongodb.com)
 &nbsp;
-[![mui](./images/mui.svg)](https://mui.com)
+[![mui](images/mui.svg)](https://mui.com)
 &nbsp;
-[![nestjs](./images/nestjs.svg)](https://nestjs.com)
+[![nestjs](images/nestjs.svg)](https://nestjs.com)
 &nbsp;
-[![nginx](./images/nginx)](https://nginx.com)
+[![nginx](images/nginx)](https://nginx.com)
 &nbsp;
-[![reactjs](./images/reactjs.svg)](https://reactjs.org)
+[![reactjs](images/reactjs.svg)](https://reactjs.org)
 &nbsp;
-[![redis](./images/redis.svg)](https://redislabs.com)
+[![redis](images/redis.svg)](https://redislabs.com)
 &nbsp;
-[![typescript](./images/typescript.svg)](https://typescriptlang.org)
+[![typescript](images/typescript.svg)](https://typescriptlang.org)
 &nbsp;
-[![vscode](./images/vscode.svg)](https://code.visualstudio.com/)
+[![vscode](images/vscode.svg)](https://code.visualstudio.com/)
 
 ---
 
