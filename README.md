@@ -2,7 +2,7 @@
 
 ---
 
-__**About me :**__
+\***\*About me :\*\***
 
 - 🤳 I've been coding for 3 years
 - 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org)
@@ -10,53 +10,55 @@ __**About me :**__
 
 ---
 
-__**Language, Framework, Database and Software used:**__
+\***\*Language, Framework, Database and Software used:\*\***
 
-[![arduino](images/arduino.svg)](https://arduino.cc)
+<a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30px" /></a>
 &nbsp;
-[cplusplus](./images/cpp.svg)
-&nbsp;
-[csharp](images/csharp.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" />
 &nbsp;
 <a href="https://www.cypress.io/"><img src="images/cypress-bw.png" width="30px" /></a>
 &nbsp;
-[![docker](images/docker.png)](https://docker.com)
+<a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" /></a>
 &nbsp;
-[![electron](images/electron.svg)](https://electronjs.org)
+<a href="https://electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30px" /></a>
 &nbsp;
-[![git](images/git.svg)](https://git-scm.com)
+<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></a>
 &nbsp;
-[![go](images/go.svg)](https://go.dev)
+<a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30px" /></a>
 &nbsp;
-[![graphql](images/graphql.svg)](https://graphql.org/)
+<a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" /></a>
 &nbsp;
-[![kotlin](images/kotlin.svg)](https://kotlinlang.org)
+<a href="https://gulpjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="30px" /></a>
 &nbsp;
-[![mongodb](images/mongodb.svg)](https://mongodb.com)
+<a href="https://kotlinlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30px" /></a>
 &nbsp;
-[![mui](images/mui.svg)](https://mui.com)
+<a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="30px" /></a>
 &nbsp;
-[![nestjs](images/nestjs.svg)](https://nestjs.com)
+<a href="https://mui.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30px" /></a>
 &nbsp;
-[![nginx](images/nginx)](https://nginx.com)
+<a href="https://nestjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"  width="30px" /></a>
 &nbsp;
-[![reactjs](images/reactjs.svg)](https://reactjs.org)
+<a href="https://nextjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30px" /></a>
 &nbsp;
-[![redis](images/redis.svg)](https://redislabs.com)
+<a href="https://nginx.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30px" /></a>
 &nbsp;
-[![typescript](images/typescript.svg)](https://typescriptlang.org)
+<a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" /></a>
 &nbsp;
-[![vscode](images/vscode.svg)](https://code.visualstudio.com/)
+<a href="https://redislabs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px" /></a>
+&nbsp;
+<a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" /></a>
+&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" /></a>
 
 ---
 
-__**Contact me :**__
+\***\*Contact me :\*\***
 
 - Mail : <a href="mailto:limerio.pro@gmail.com">limerio.pro@gmail.com</a>
 
 ---
 
-__**My Stats :**__
+\***\*My Stats :\*\***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats me](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
