@@ -2,7 +2,7 @@
 
 ---
 
-\***\*About me :\*\***
+**About me :**
 
 - 🤳 I've been coding for 3 years
 - 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org)
@@ -10,7 +10,7 @@
 
 ---
 
-\***\*Language, Framework, Database and Software used:\*\***
+**Language, Framework, Database and Software used:**
 
 <a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30px" /></a>
 &nbsp;
@@ -52,13 +52,13 @@
 
 ---
 
-\***\*Contact me :\*\***
+**Contact me :**
 
 - Mail : <a href="mailto:limerio.pro@gmail.com">limerio.pro@gmail.com</a>
 
 ---
 
-\***\*My Stats :\*\***
+**My Stats :**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats me](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
