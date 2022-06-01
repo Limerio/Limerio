@@ -1,12 +1,12 @@
-<h3 align="center">Hi, I'm Limerio and I'm a full stack developer. 💻</h3>
+<h3 align="center">Hi, I'm Limerio and I'm a Full Stack Web Developer. 💻</h3>
 
 ---
 
 **About me :**
 
 - 🤳 I've been coding for 3 years
-- 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org)
-- 💻 I work for my own project [Silica](https://github.com/SilicaBot) and [Passionne website](https://github.com/Team-Passionne)
+- 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org) and [Go](https://go.dev)
+- 💻 I work for my own big project [Silica](https://github.com/SilicaBot) with @KushiieDev
 
 ---
 
@@ -61,5 +61,5 @@
 **My Stats :**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats me](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Limerio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=limerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true" width="495" height="140" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Limerio's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=limerio&layout=compact" width="495" height="140" /></a>
