@@ -61,5 +61,5 @@
 **My Stats :**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true" width="495" height="140" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Limerio's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=limerio&layout=compact" width="495" height="140" /></a>
+[![Stats](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Limerio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=limerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
