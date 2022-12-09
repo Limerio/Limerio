@@ -4,8 +4,8 @@
 
 **About me :**
 
-- 🤳 I've been coding for 3 years
-- 👨‍🎓 I learn now [Docker](https://docker.com), [Kotlin](https://kotlinlang.org) and [Go](https://go.dev)
+- 🤳 I've been coding for 4 years
+- 👨‍🎓 I learn now [Rust](https://www.rust-lang.org) and [Kotlin](https://kotlinlang.org)
 - 💻 I work for my own big project [Silica](https://github.com/SilicaBot) with @KushiieDev
 
 ---
@@ -24,7 +24,7 @@
 &nbsp;
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></a>
 &nbsp;
-<a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30px" /></a>
+<a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="30px" /></a>
 &nbsp;
 <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" /></a>
 &nbsp;
@@ -33,8 +33,6 @@
 <a href="https://kotlinlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="30px" /></a>
-&nbsp;
-<a href="https://mui.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://nestjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"  width="30px" /></a>
 &nbsp;
