@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Limerio and I'm a Full Stack Web Developer. 💻</h3>
+<h3 align="center">Hi, I'm Limerio and I'm a Full Stack Developer. 💻</h3>
 
 ---
 
@@ -14,21 +14,11 @@
 
 <a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30px" /></a>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" />
-&nbsp;
-<a href="https://www.cypress.io/"><img src="images/cypress-bw.png" width="30px" /></a>
-&nbsp;
 <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30px" /></a>
 &nbsp;
-<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></a>
-&nbsp;
 <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" /></a>
-&nbsp;
-<a href="https://gulpjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="30px" /></a>
-&nbsp;
-<a href="https://kotlinlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="30px" /></a>
 &nbsp;
@@ -37,6 +27,10 @@
 <a href="https://nextjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30px" /></a>
 &nbsp;
 <a href="https://nginx.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30px" /></a>
+&nbsp;
+<a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" /></a>
+&nbsp;
+<a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" /></a>
 &nbsp;
