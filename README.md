@@ -5,7 +5,7 @@
 **About me :**
 
 - 🤳 I've been coding for 5 years
-- 👨‍🎓 I learn now [Rust](https://www.rust-lang.org) and DevOps
+- 👨‍🎓 I'm learning [Rust](https://www.rust-lang.org) and DevOps
 - 💻 I'm working on my own to learning some crazy things
 
 ---
