@@ -4,9 +4,9 @@
 
 **About me :**
 
-- 🤳 I've been coding for 4 years
-- 👨‍🎓 I learn now [Rust](https://www.rust-lang.org) and [Kotlin](https://kotlinlang.org)
-- 💻 I work for my own big project [Silica](https://github.com/SilicaBot) with @KushiieDev
+- 🤳 I've been coding for 5 years
+- 👨‍🎓 I learn now [Rust](https://www.rust-lang.org) and DevOps
+- 💻 I'm working on my own for learning some crazy things
 
 ---
 
@@ -44,7 +44,13 @@
 &nbsp;
 <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="30px" /></a>
 &nbsp;
+<a href="https://tauri.app"><img src="images/tauri.png" width="30px" /></a>
+&nbsp;
+<a href="https://terraform.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30px" /></a>
+&nbsp;
 <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" /></a>
+&nbsp;
+<a href="https://www.vagrantup.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" /></a>
 
