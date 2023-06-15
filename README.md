@@ -60,4 +60,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Limerio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=limerio)](https://github.com/anuraghazra/github-readme-stats)
+[![Limerio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=limerio)](https://wakatime.com/@Limerio)
