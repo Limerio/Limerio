@@ -53,6 +53,7 @@
 **Contact me :**
 
 - Mail : <a href="mailto:limerio.pro@gmail.com">limerio.pro@gmail.com</a>
+- Discord : limerio
 
 ---
 
