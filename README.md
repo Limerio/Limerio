@@ -16,8 +16,6 @@
 &nbsp;
 <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" /></a>
 &nbsp;
-<a href="https://electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="30px" /></a>
-&nbsp;
 <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30px" /></a>
 &nbsp;
 <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="30px" /></a>
@@ -25,8 +23,6 @@
 <a href="https://nestjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"  width="30px" /></a>
 &nbsp;
 <a href="https://nextjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="30px" /></a>
-&nbsp;
-<a href="https://nginx.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" /></a>
 &nbsp;
@@ -37,8 +33,6 @@
 <a href="https://redislabs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="30px" /></a>
-&nbsp;
-<a href="https://tauri.app"><img src="images/tauri.png" width="30px" /></a>
 &nbsp;
 <a href="https://terraform.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30px" /></a>
 &nbsp;
@@ -55,10 +49,4 @@
 - Mail : <a href="mailto:limerio.pro@gmail.com">limerio.pro@gmail.com</a>
 - Discord : limerio
 
----
-
-**My Stats :**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limerio&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Limerio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=limerio)](https://wakatime.com/@Limerio)
