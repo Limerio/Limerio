@@ -12,13 +12,15 @@
 
 **Language, Framework, Database and Software used:**
 
+<a href="https://astro.build"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="30px" /></a>
+&nbsp;
 <a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="30px" /></a>
 &nbsp;
-<a href="https://kubernetes.io"><mg src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30px" /></a>
+<a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="30px" /></a>
 &nbsp;
