@@ -38,6 +38,8 @@
 &nbsp;
 <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="30px" /></a>
 &nbsp;
+<a href="https://tauri.app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="30px" /></a>
+&nbsp;
 <a href="https://terraform.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" /></a>
