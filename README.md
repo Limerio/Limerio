@@ -54,5 +54,6 @@
 
 - Mail : <a href="mailto:contact@limerio.dev">contact@limerio.dev</a>
 - Discord : limerio
+- Portfolio : <a href="https://limerio.dev">limerio.dev</a>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
