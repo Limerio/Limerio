@@ -4,21 +4,19 @@
 
 **About me :**
 
-- 🤳 I've been coding for 5 years
-- 👨‍🎓 I'm learning [Rust](https://www.rust-lang.org) and DevOps
-- 💻 I'm working on my own to learning some crazy things
+- 🤳 I've been coding for 6 years
+- 👨‍🎓 I'm learning DevOps
+- 💻 I'm working at [Cyna](https://github.com/cyna-it), and on my own to learning some crazy things
 
 ---
 
-**Language, Framework, Database and Software used:**
+**Languages, Frameworks, Databases and Softwares used:**
 
 <a href="https://astro.build"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="30px" /></a>
 &nbsp;
-<a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="30px" /></a>
-&nbsp;
 <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" /></a>
 &nbsp;
-<a href="https://graphql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="30px" /></a>
+<a href="https://hono.dev"><img src="https://hono.dev/images/logo-small.png" width="30px" /></a>
 &nbsp;
 <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30px" /></a>
 &nbsp;
@@ -38,13 +36,9 @@
 &nbsp;
 <a href="https://www.rust-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="30px" /></a>
 &nbsp;
-<a href="https://tauri.app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="30px" /></a>
-&nbsp;
 <a href="https://terraform.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" /></a>
-&nbsp;
-<a href="https://www.vagrantup.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" width="30px" /></a>
 &nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px" /></a>
 
