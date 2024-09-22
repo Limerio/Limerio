@@ -16,6 +16,8 @@
 &nbsp;
 <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" /></a>
 &nbsp;
+<a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px" /></a>
+&nbsp;
 <a href="https://hono.dev"><img src="https://hono.dev/images/logo-small.png" width="30px" /></a>
 &nbsp;
 <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30px" /></a>
@@ -51,3 +53,5 @@
 - Portfolio : <a href="https://limerio.dev">limerio.dev</a>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Limerio&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Limerio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Limerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
