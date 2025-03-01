@@ -18,7 +18,7 @@
 &nbsp;
 <a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px" /></a>
 &nbsp;
-<a href="https://hono.dev"><img src="https://hono.dev/images/logo-small.png" width="30px" /></a>
+<a href="https://hono.dev"><img src="https://hono.dev/images/logo.svg" width="25px" /></a>
 &nbsp;
 <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30px" /></a>
 &nbsp;
